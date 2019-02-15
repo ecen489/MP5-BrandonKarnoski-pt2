@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string-array name="QuizTopics">
+        <item>TAMU_Traditions</item>
+        <item>Texas</item>
+        <item>Science</item>
+    </string-array>
+
+    <string-array name="Questions1">
+        <item>Who is Texas A&amp;M\'s Mascot"\"?</item>
+        <item>The official greeting of Texas A&amp;M</item>
+        <item>Aggies dont cheer, they</item>
+    </string-array>
+
+    <string-array name="Answers1">
+        <item>reveille</item>
+        <item>howdy</item>
+        <item>yell</item>
+    </string-array>
+
+    <string-array name="Questions2">
+        <item>What is the capital of Texas"\"?</item>
+        <item>What year did Texas declare independence from Mexico"\"?</item>
+        <item>What is the best college in Texas"\"?</item>
+    </string-array>
+
+    <string-array name="Answers2">
+        <item>Austin</item>
+        <item>1836</item>
+        <item>Texas A&amp;M</item>
+    </string-array>
+
+    <string-array name="Questions3">
+        <item>What is the building block of matter"\"?</item>
+        <item>What is the basic unit of heredity"\"?</item>
+        <item>What do amino acids make"\"?</item>
+    </string-array>
+
+    <string-array name="Answers3">
+        <item>atom</item>
+        <item>gene</item>
+        <item>protein</item>
+    </string-array>
+</resources>
